@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 03-03-2021 -- 09-03-2021 |
+| 23-02-2021 -- 02-03-2021 |
 
 <br>
 <br>
@@ -27,8 +27,8 @@
 
 | Tip Masa  | Alimente  |  
 |---|---|
-| Mic Dejun | 1 x 200ml iaurt 2% cu doua linguri de muslii (fara fructe) sau cereale integrale |
-| Gustare 1 | 1 x Portocala |
-| Pranz | Ciorba (Perisoare/Vacuta) fara fainoase sau cereale (taieti, galusca, orez) |
-| Gustare 2 | 1 x Portocala | 
-| Cina | 450g mancare de fasole verde si curcan (150g curcan, 300g fasole verde) |
+| Mic Dejun|  1 x Ou<br>50g Branza<br>100g Rosii sau jumatate Ardei |
+| Gustare 1 | 1 x Mar |
+| Pranz |  150g Pui/Curcan<br>300g Salata de varza  |
+| Gustare 2 | 1 x Mar   | 
+| Cina |  450g salata cu ton (150g ton, 100g frunze, 200g rosii, castraveti, ceapa verde, ulei de masline/lamaie) |
