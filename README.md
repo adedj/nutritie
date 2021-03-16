@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 09-03-2021 -- 16-03-2021 |
+| 16-03-2021 -- 23-03-2021 | - 92.2 KG
 
 <br>
 <br>
@@ -9,13 +9,11 @@
 |---|---|---|
 | 09:30 - 10:00 | Mic Dejun + Gustare 1  |
 | 12:00 - 14:00 | Pranz |
-| 16:00 |  Gustare 2 |
+| 16:00 | Gustare 2 |
 | 20:00 | Cina  |
 
-
 <br>
 <br>
-
 
 | Actiune       | Unitate Masura| Zile |
 | ------------- |:-------------:|-------------:|
@@ -27,8 +25,12 @@
 
 | Tip Masa  | Alimente |  
 |---|---|
-| Mic Dejun | 100g branza si 150g rosii |
-| Gustare 1 | 250g capsuni |
-| Pranz | 150g peste cu 300g mix legume fierte (bonduele brocoli / pastai / ciuperci) |
-| Gustare 2 | 250g capsuni | 
-| Cina | 150g pui 300g salta varza |
+| Mic Dejun | 4 oua prepelita cu 50g branza si 100g rosii |
+| Gustare 1 | 100g afine |
+| Pranz | 150g vita cu 300g salata rucola cu rosii cherry |
+| Gustare 2 | 100g afine | 
+| Cina | 150g pui cu 300g (bonduele brocoli / pastai / ciuperci) |
+
+<br>
+XYlitol - zahar (plafar)
+Esenta de migdale lichida + Apa minerala
