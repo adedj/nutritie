@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 23-03-2021 -- 30-03-2021 | - 90.3 KG
+| 09-03-2021 -- 16-03-2021 |
 
 <br>
 <br>
@@ -9,11 +9,13 @@
 |---|---|---|
 | 09:30 - 10:00 | Mic Dejun + Gustare 1  |
 | 12:00 - 14:00 | Pranz |
-| 16:00 | Gustare 2 |
+| 16:00 |  Gustare 2 |
 | 20:00 | Cina  |
+
 
 <br>
 <br>
+
 
 | Actiune       | Unitate Masura| Zile |
 | ------------- |:-------------:|-------------:|
@@ -25,10 +27,8 @@
 
 | Tip Masa  | Alimente |  
 |---|---|
-| Mic Dejun | 100g branza, 100g rosii si 100g castraveti |
-| Gustare 1 | o protocala medie |
-| Pranz | o ciorba cu carne (fara taietei/orez/galusti) |
-| Gustare 2 | o protocala medie | 
-| Cina | 150g curcan cu 300g salata mixta (rosii, castraveti, salata verde, ceapa verde) |
-
-<br>
+| Mic Dejun | 100g branza si 150g rosii |
+| Gustare 1 | 250g capsuni |
+| Pranz | 150g peste cu 300g mix legume fierte (bonduele brocoli / pastai / ciuperci) |
+| Gustare 2 | 250g capsuni | 
+| Cina | 150g pui 300g salata varza |
