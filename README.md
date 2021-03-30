@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 23-03-2021 -- 30-03-2021 | - 90.3 KG
+| 30-03-2021 -- 06-04-2021 | - 90.3 KG
 
 <br>
 <br>
@@ -25,10 +25,10 @@
 
 | Tip Masa  | Alimente |  
 |---|---|
-| Mic Dejun | 100g branza, 100g rosii si 100g castraveti |
-| Gustare 1 | o protocala medie |
-| Pranz | o ciorba cu carne (fara taietei/orez/galusti) |
-| Gustare 2 | o protocala medie | 
-| Cina | 150g curcan cu 300g salata mixta (rosii, castraveti, salata verde, ceapa verde) |
+| Mic Dejun | o felie paine (integrala) cu zacusca |
+| Gustare 1 | 200g capsuni |
+| Pranz | o ciorba (legume)  |
+| Gustare 2 | 200g capsuni | 
+| Cina | 450 varza la cuptor cu rosii, ceapa, etc |
 
 <br>
