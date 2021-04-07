@@ -23,12 +23,12 @@
 <br>
 <br>
 
-| Tip Masa  | Alimente |  
+| Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | 100g branza cu 100g rosii si 100g castraveti |
+| Mic Dejun | 100g branza, 100g rosii si 100g castraveti |
 | Gustare 1 | o portocala |
 | Pranz | 150g curcan sau pui cu 300g salata mixta  |
-| Gustare 2 | 2o portocala | 
-| Cina | 200g peste cu 250g legume la gratar (fara ciuperci) |
+| Gustare 2 | o portocala | 
+| Cina | 200g peste si 250g legume la gratar (fara ciuperci) |
 
 <br>
