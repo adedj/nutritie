@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 13-04-2021 -- 20-04-2021 | - 89.6 KG
+| 20-04-2021 -- 27-04-2021 | - 89.3 KG
 
 <br>
 <br>
@@ -25,10 +25,10 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | 3 x oua prepelita cu 50g branza si jumatate ardei gras |
-| Gustare 1 | un mar |
-| Pranz | 150g pui cu 300g salata varza  |
-| Gustare 2 | un mar | 
-| Cina | 150g curcan cu mancare de fasole verde |
+| Mic Dejun | 4 x oua prepelita cu 100g branza |
+| Gustare 1 | iaurt (optional) |
+| Pranz | 200g (vita / piept pui / curcan / porc (musichi file), fructe de mare) cu 50g branza (optional 100g salata verde) |
+| Gustare 2 | iaurt (optional) | 
+| Cina | 200g (vita / piept pui / curcan / porc (musichi file), fructe de mare) cu 50g branza (optional 100g salata verde) |
 
 <br>
