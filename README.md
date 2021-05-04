@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 27-04-2021 -- 03-05-2021 | - 88.6 KG
+| 04-05-2021 -- 11-05-2021 | - 88.7 KG
 
 <br>
 <br>
@@ -23,22 +23,10 @@
 <br>
 <br>
 
-| Tip Masa  | Alimente | Post |
-|---|---|---|
-| Mic Dejun | o felie paine cu zacusca |
-| Gustare 1 | un mar  |
-| Pranz | o ciorba de legume |
-| Gustare 2 | un mar  | 
-| Cina | 150g ciuperci cu 300g salata mixta |
-
-<br>
-<br>
-
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | 1 x ou cu 50g drob sau branza si o leguma |
-| Gustare 1 | o felie cozonac  |
-| Pranz | o ciorba de miel |
-| Gustare 2 | un mar (optional) | 
-| Cina | 150g friptura cu 300g salata verde |
-
+| Mic Dejun | 1 x iarut cu cereale |
+| Gustare 1 | un mar |
+| Pranz | 450g salata de ton 150g ton 300g legume |
+| Gustare 2 | un mar | 
+| Cina | 450 salata cu branza 150g branza 300g legume |
