@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 11-05-2021 -- 18-05-2021 | - 88.0 KG
+| 18-05-2021 -- 25-05-2021 | - 88.5 KG
 
 <br>
 <br>
@@ -25,8 +25,8 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | un ou cu 50g branza si un castravete |
-| Gustare 1 | 200g capsuni |
-| Pranz | o ciorba |
-| Gustare 2 | 200g capsuni| 
-| Cina | 150g curcan cu 300g salata varza |
+| Mic Dejun | un ou cu 100g branza |
+| Gustare 1 | - |
+| Pranz | 150g curcan sau vita cu 300g ciuperci sau salata mixta |
+| Gustare 2 | - | 
+| Cina | 150g peste cu 300g legume |
