@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 27-05-2021 -- 03-06-2021 | - 87.9 KG
+| 11-05-2021 -- 18-05-2021 | - 88.0 KG
 
 <br>
 <br>
@@ -25,8 +25,8 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | 50g muschi file cu 150g castravete |
-| Gustare 1 | - |
-| Pranz | 250g carne vita/porc/pui cu 200g salata verde |
-| Gustare 2 | - | 
-| Cina | 250g peste/fructe de mare |
+| Mic Dejun | un ou cu 50g branza si un castravete |
+| Gustare 1 | 200g capsuni |
+| Pranz | o ciorba |
+| Gustare 2 | 200g capsuni| 
+| Cina | 150g curcan cu 300g salata varza |
