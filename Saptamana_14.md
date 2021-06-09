@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 09-06-2021 -- 16-06-2021 | - 86.9 KG
+| 02-06-2021 -- 09-06-2021 | - 86.9 KG
 
 <br>
 <br>
@@ -25,8 +25,8 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | un ou cu 2 felii de muschi file si 100g castravete |
-| Gustare 1 | 200g lubenita |
-| Pranz | salata 300g cu ton 150g |
-| Gustare 2 | 200g lubenita | 
-| Cina | 150g curcan/vita cu 300g salata mixta |
+| Mic Dejun | 100g rosii cu 100g branza |
+| Gustare 1 | un mar / 200g lubenita |
+| Pranz | o ciorba |
+| Gustare 2 | un mar / 200g lubenita | 
+| Cina | 150g curcan cu 300g salata varza |
