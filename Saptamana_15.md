@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 16-06-2021 -- 23-06-2021 | - 86.9 KG
+| 09-06-2021 -- 16-06-2021 | - 86.9 KG
 
 <br>
 <br>
@@ -25,8 +25,8 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | 50g muschi file cu 100g branza |
-| Gustare 1 | - |
-| Pranz | 200g carne cu 200g salata verde |
-| Gustare 2 | - | 
-| Cina | 250g peste sau fructe de mare cu lamaie |
+| Mic Dejun | un ou cu 2 felii de muschi file si 100g castravete |
+| Gustare 1 | 200g lubenita |
+| Pranz | salata 300g cu ton 150g |
+| Gustare 2 | 200g lubenita | 
+| Cina | 150g curcan/vita cu 300g salata mixta |
