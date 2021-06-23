@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 23-06-2021 -- 30-06-2021 | - 87.3 KG
+| 16-06-2021 -- 23-06-2021 | - 86.9 KG
 
 <br>
 <br>
@@ -25,8 +25,8 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | 100g rosii cu 100g branza|
-| Gustare 1 | o nectarina sau piersica |
-| Pranz | 200g carne cu 200g salata verde | carne cu legume la gratara
-| Gustare 2 | o nectarina sau piersica | 
-| Cina | 450g ghiveci cu legume | salata brabza
+| Mic Dejun | 50g muschi file cu 100g branza |
+| Gustare 1 | - |
+| Pranz | 200g carne cu 200g salata verde |
+| Gustare 2 | - | 
+| Cina | 250g peste sau fructe de mare cu lamaie |
