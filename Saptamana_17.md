@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 30-06-2021 -- 07-06-2021 | - 86.7 KG
+| 23-06-2021 -- 30-06-2021 | - 87.3 KG
 
 <br>
 <br>
@@ -27,6 +27,6 @@
 |---|---|
 | Mic Dejun | 100g rosii cu 100g branza|
 | Gustare 1 | o nectarina sau piersica |
-| Pranz | 200g carne cu 200g legume la gratar |
+| Pranz | 200g carne cu 200g salata verde | carne cu legume la gratara
 | Gustare 2 | o nectarina sau piersica | 
-| Cina | 300g salata cu 150g branza|
+| Cina | 450g ghiveci cu legume | salata brabza
