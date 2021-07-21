@@ -1,6 +1,6 @@
 |Perioada|
 | ------ |
-| 14-07-2021 -- 21-07-2021 | - 88.2 KG
+| 14-07-2021 -- 21-07-2021 | - 87.5 KG
 
 <br>
 <br>
@@ -25,8 +25,8 @@
 
 | Tip Masa  | Alimente |
 |---|---|
-| Mic Dejun | un ou cu 100g branza si 100g castravete |
-| Gustare 1 | - |
-| Pranz | 300g salta cu 150g pui in total 450g salata |
-| Gustare 2 | - | 
-| Cina | 300g salta cu 150g peste in total 450g salata |
+| Mic Dejun | 100g rosii cu 100g branza |
+| Gustare 1 | o piersica |
+| Pranz | 150g curcan cu 300g salta varza |
+| Gustare 2 | o piersica | 
+| Cina | o ciorba |
